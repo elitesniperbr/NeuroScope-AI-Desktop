@@ -31,7 +31,7 @@ This repository is intended as a **design and architectural prototype**, not a p
 ## 🖥 Interface Preview
 
 <p align="center">
-  <img src="assets/screenshots/overview.png" width="800">
+  <img src="https://github.com/elitesniperbr/NeuroScope-AI-Desktop/blob/main/NeuroScope-AI/assets/images/Preview.png">
 </p>
 
 <p align="center">
