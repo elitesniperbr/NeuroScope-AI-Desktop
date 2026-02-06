@@ -10,6 +10,13 @@ Premium desktop UI prototype for visualizing CPU optimization and system perform
 > **NeuroScope AI** is a premium desktop UI prototype inspired by tools like QuickCPU,  
 designed to visualize CPU behavior, system tuning states, and performance profiles  
 in a clean, modern, glass-style interface.
+## ⬇️ Download
+
+Download the latest desktop build:
+
+👉 **[Download NeuroScope AI (Windows x64)](https://github.com/USERNAME/neuroscope-cpu-optimizer/releases/latest/download/NeuroScopeAI-Windows.zip)**
+
+> No installation required. Portable build.
 
 ---
 
@@ -73,5 +80,14 @@ All data shown in the UI is **simulated** and used purely for visualization purp
 
 ---
 
-## 📂 Project Structure
+🏷 Topics (GitHub tags)
+python
+desktop-app
+gui
+cpu-optimizer
+performance
+system-tuning
+glassmorphism
+prototype
+
 
